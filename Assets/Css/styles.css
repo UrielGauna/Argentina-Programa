@@ -1,0 +1,136 @@
+body{
+    background-image: url(/Assets/Img/pexels-aron-visuals-3719952.jpg);
+    background-repeat: repeat;
+    background-size: auto;
+    width: auto;
+    height: auto;
+    
+    
+
+}
+.navbar.navbar-expand-lg.bg-secondary{
+    background-color: transparent !important;
+    
+}
+i.fa-brands.fa-square-twitter.fa-2xl,
+i.fa-brands.fa-instagram.fa-2xl,
+i.fa-solid.fa-user.fa-2xl,i.fa-brands.fa-github.fa-2xl,
+i.fa-brands.fa-linkedin.fa-2xl,
+i.fa-solid.fa-pen.fa-xl,
+i.fa-solid.fa-trash-can.fa-xl
+{
+    color:rgb(255, 255, 255)  
+}
+i.fa-brands.fa-square-twitter.fa-2xl:hover{
+    color:rgb(24, 167, 255);
+}
+
+i.fa-brands.fa-instagram.fa-2xl:hover{
+    color:palevioletred
+}
+i.fa-solid.fa-user.fa-2xl:hover{
+    color: rgb(248, 250, 147);
+}
+i.fa-brands.fa-github.fa-2xl:hover{
+    color:rgba(185, 84, 84, 0.677)
+}
+i.fa-brands.fa-linkedin.fa-2xl:hover{
+    color:rgb(7, 242, 230)
+}
+i.fa-solid.fa-circle-user.fa-2xl{
+    background-color: black;
+    color: black;
+}
+
+
+
+.list-group{
+    --bs-list-group-bg: transparent;
+}
+
+section.about{
+    margin-top: 10rem;
+    color: rgba(255, 255, 255, 0.928);
+}
+
+
+
+h4.nombre{
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+h5.lugar{
+    margin-left: 2rem;
+}
+h4.titulo{
+    margin-left: -1rem;
+    margin-top: -2rem;
+}
+
+.experiencia{
+    margin-top: -4rem;
+    margin-left: 3rem;
+    
+}
+.container.info{
+    margin-left: 3rem;
+    margin-top: 4rem;
+}
+.aplogo.col{
+    margin-left: -5rem;
+    margin-top: 2rem ;
+
+}
+.col-4{
+    margin-left: -5rem;
+}
+.yo.col{
+    margin-left: -5rem;
+    margin-top: -5rem;
+}
+.col-5{
+    margin-left: 12rem;
+    margin-top: 5rem;
+
+}
+section#info{
+    border-style:solid;
+    border-color: rgba(147, 128, 255, 0.622);
+    border-radius: 3rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+
+section#educacion{
+    border-style: solid;
+    border-color: rgba(147, 128, 255, 0.622);
+    border-radius: 3rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+    
+
+section#syhskill{
+    width: 50rem;
+    height: 25rem;
+    margin-right: 15rem;
+    margin-left: 15rem;
+    margin-top: 3rem;
+    border-style: solid;
+    border-color: rgba(147, 128, 255, 0.622);
+
+
+}
+.progress{
+    width: 40rem;
+    margin-left: 5rem;
+}
+
+section#proyectos{
+    border-style: solid;
+    border-color: rgba(147, 128, 255, 0.622);
+    border-radius: 3rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-top: 7rem;
+}
